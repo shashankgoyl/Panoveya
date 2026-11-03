@@ -44,9 +44,9 @@ export const siteConfig = {
     /** Public enquiry email. Placeholder until a real inbox exists. */
     email: null as string | null,
     /** Public phone number with country code, e.g. "+91 98xxxxxxx". */
-    phone: null as string | null,
+    phone: "+91 79063 38849" as string | null,
     /** WhatsApp number in international format without "+", e.g. "9198xxxxxxxx". */
-    whatsapp: null as string | null,
+    whatsapp: "917906338849" as string | null,
     /** Registered or office address. Leave null unless verified. */
     address: null as string | null,
     /** Short statement about service coverage shown on contact pages. */
